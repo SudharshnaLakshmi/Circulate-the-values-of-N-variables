@@ -6,14 +6,18 @@ PC
 Anaconda - Python 3.7
 ## Algorithm: 
 ### Step 1: 
+Get values from the user.
 ### Step 2: 
+Use default argument as it has input as default. 
 ### Step 3: 
 Get the value from the user for the number of rotation
 ### Step 4: 
 Using the slicing concept rotate the list
 
 ### Step 5: 
+Then print the values.
 ### Step 6: 
+WOW!Finally you got the output.
 ## Program:
 ```
 #Program to circulate N values.
